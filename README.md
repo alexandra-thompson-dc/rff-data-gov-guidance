@@ -18,7 +18,9 @@ quarto preview
 ```
 This should render the website, and should open a browser window with the website.
    
+# Learning Markdown
 
+Check out [this site](https://www.markdownguide.org/basic-syntax/) for information about markdown syntax!
     
 
    
