@@ -7,11 +7,14 @@ website:
     style: "docked"
     search: true
     contents:
-      - docs/home.md
+      - about.qmd
       - section: "Version Control"
         contents:
           - docs/version-control/vc1.md
           - docs/version-control/vc2.md
+          - section: "Version Control subsection"
+            contents:
+            - docs/version-control/vc2 - Copy.md
       - section: "Software"
         contents:
           - docs/software/software1.md
