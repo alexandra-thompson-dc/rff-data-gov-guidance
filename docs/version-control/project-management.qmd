@@ -1,0 +1,10 @@
+---
+title: GitHub for Project Management
+---
+
+GitHub has some powerful tools for helping manage software projects, large and small.
+We’ll explore the basics here.
+
+## Issues
+
+## Projects

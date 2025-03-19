@@ -1,3 +1,32 @@
 ---
 title: Version Control
 ---
+
+## What is version control and what can it do for you?
+
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+You know how Microsoft Word will periodically save your file, and you can recover previous versions if you really mess up?  That is one simplistic form of version control, with other forms offering far more functionality.
+Some commonly used version control systems are Git, Mercurial, and SVN.
+Here at RFF, we strongly advise using Git, which we will discuss for the remainder of the section.
+We also recommend using GitHub to host Git repositories online.
+Here are some of the benefits of using Git/GitHub for version control:
+
+* Grants __peace of mind__ knowing work is stored safely and can be recalled with minimal effort, which gives greater __liberty__ to test out new ideas (even when a computer breaks!)
+
+* Facilitates __collaboration__ by allowing multiple versions to coexist and to efficiently borrow code from one another
+
+* Enables efficient __review and discussion__ of code changes before incorporating them into the main branch of the repository
+
+* __Documents__ when, why, and by whom specific changes were made, which helps with debugging and troubleshooting
+
+* __Consolidates__ project code and documentation in the same, easily-accessible, backed-up location.
+
+* __Preserves__ easy web browser access to all versions of code.
+
+* __Organize__ documentation so it can be kept alongside the code itself
+
+* __Provides public access__ to datasets and code under the auspices of a software license
+
+* __Empowers audiences__ to answer their own questions about the data and methods used in publications, reducing overhead for researchers who would otherwise be given that task
+
+This section of the guidance will help you get started in making version control a standard part of the project life cycle.
